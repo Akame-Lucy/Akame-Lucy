@@ -35,7 +35,7 @@ print("Welcome to my GitHub profile!")
 
 ## 💻 Language Journey
 
-### 🌙 **Lua** - *Learned to create game mods*
+### 🌙 **Lua** - *Learned from create game mods*
 ```lua
 -- Clean, simple, and powerful
 function greet(name)
