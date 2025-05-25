@@ -85,8 +85,8 @@ public class Learning {
 
 ## 🌟 Fun Facts & Interests
 
-- 🐧 **Linux Explorer**: Fascinated by Lua's elegance and versatility
-- 🔄 **Language Explorer**: Diving into the world of open-source systems
+- 🐧 **Linux Explorer**: Diving into the world of open-source systems
+- 🔄 **Language Explorer**: Enjoy learning different programming paradigms
 - 💡 **Problem Solver**: Love tackling challenges across different languages
 - 📚 **Continuous Learner**: Always excited to discover new coding concepts
 
