@@ -30,6 +30,8 @@ print("Welcome to my GitHub profile!")
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
 
 </div>
 
@@ -66,6 +68,31 @@ public class Learning {
 }
 ```
 
+### 🌐 **HTML** - *The Web Foundation*
+
+```html
+<!-- Building the structure of the web -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>HTML Journey</title>
+</head>
+<body>
+    <h1>Welcome to my HTML journey!</h1>
+</body>
+</html>
+```
+
+### 🐘 **PHP** - *Server-Side Exploration*
+
+```php
+<?php
+// Echoing a message with PHP
+echo "PHP, let's build dynamic websites!";
+?>
+```
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -82,6 +109,9 @@ public class Learning {
 - 🚀 **JavaScript Growth**: Expanding my JS knowledge for web development
 - 🐍 **Python Projects**: Building practical applications with Python
 - ☕ **Java Fundamentals**: Strengthening my object-oriented programming skills
+* 🌐 **HTML Development**: Mastering the structure and design of web pages
+* 🖥️ **PHP Development**: Enhancing skills in server-side scripting and dynamic websites
+* 🔧 **Git & CTF Hosting**: Leveraging Git to create and host a Capture the Flag competition platform
 
 ## 🌟 Fun Facts & Interests
 
