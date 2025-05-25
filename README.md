@@ -1,8 +1,8 @@
 # 👋 Hey there! I'm Akame-Lucy
 
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF6B9D&height=100&section=header" />
 <img src="https://avatars.githubusercontent.com/u/139102700?v=4" width="150" height="150" style="border-radius: 50%;" />
-<br/>
 
 </div>
 
