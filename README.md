@@ -1,7 +1,8 @@
 # 👋 Hey there! I'm Akame-Lucy
 
 <div align="center">
-<img src="https://avatars.githubusercontent.com/u/139102700?v=4" width="150" height="150" style="border-radius: 50%; border: 4px solid #FF6B9D; box-shadow: 0 0 20px #FF6B9D, 0 0 40px #FF6B9D, 0 0 60px #FF6B9D; animation: glow 2s ease-in-out infinite alternate;" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF6B9D&height=100&section=header" />
+<img src="https://avatars.githubusercontent.com/u/139102700?v=4" width="150" height="150" style="border-radius: 50%;" />
 
 </div>
 
