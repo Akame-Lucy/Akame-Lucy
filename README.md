@@ -109,9 +109,9 @@ echo "PHP, let's build dynamic websites!";
 - 🚀 **JavaScript Growth**: Expanding my JS knowledge for web development
 - 🐍 **Python Projects**: Building practical applications with Python
 - ☕ **Java Fundamentals**: Strengthening my object-oriented programming skills
-* 🌐 **HTML Development**: Mastering the structure and design of web pages
-* 🖥️ **PHP Development**: Enhancing skills in server-side scripting and dynamic websites
-* 🔧 **Git & CTF Hosting**: Leveraging Git to create and host a Capture the Flag competition platform
+- 🌐 **HTML Development**: Mastering the structure and design of web pages
+- 🖥️ **PHP Development**: Enhancing skills in server-side scripting and dynamic websites
+- 🔧 **Git & CTF Hosting**: Leveraging Git to create and host a Capture the Flag competition platform
 
 ## 🌟 Fun Facts & Interests
 
