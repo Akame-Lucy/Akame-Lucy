@@ -2,7 +2,7 @@
 
 <div align="center">
   
-![Typing SVG]([https://readme-typing-svg.herokuapp.com/color=FF6B9D&center=true&vCenter=true&width=600&lines=Multi-Language+Developer;Lua+Enthusiast;Python+%26+Java+Explorer;Always+Learning+New+Tech!](https://cdn.discordapp.com/attachments/1348592172760432661/1376183455922000052/image.png?ex=68346638&is=683314b8&hm=f6059029e076868bce1a44c8807c24c8a7fd98d816d86662235032bc779bd9cf&))
+![Typing SVG]([https://readme-typing-svg.herokuapp.com/color=FF6B9D&center=true&vCenter=true&width=600&lines=Multi-Language+Developer;Lua+Enthusiast;Python+%26+Java+Explorer;Always+Learning+New+Tech!](https://cdn.discordapp.com/attachments/1348592172760432661/1376183455922000052/image.png?ex=68346638&is=683314b8&hm=f6059029e076868bce1a44c8807c24c8a7fd98d816d86662235032bc779bd9cf&)](https://avatars.githubusercontent.com/u/139102700?v=4))
 
 </div>
 
