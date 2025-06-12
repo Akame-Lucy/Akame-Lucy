@@ -37,7 +37,7 @@ print("Welcome to my GitHub profile!")
 
 ---
 
-🚀 **Check out My CTF challenges and participate now!** 
+## 🚀 Check out My CTF challenges and participate now!
 
 <div align="center">
 
