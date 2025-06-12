@@ -39,6 +39,9 @@ print("Welcome to my GitHub profile!")
 
 <div align="center">
 
+🚀 **Check out our CTF challenges and participate now!**  
+Join the fun, improve your skills, and climb the leaderboard.  
+<br>  
 [![🚩 Check It Out & Participate!](https://img.shields.io/badge/MyCyberPlayground-Join%20Now!-blueviolet?style=for-the-badge&logo=github)](https://github.com/MyCyberPlayground)
 
 </div>
