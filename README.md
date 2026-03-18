@@ -138,7 +138,7 @@ echo "PHP, let's build dynamic websites!";
 
 <div align="center">
 
-[![Website](https://img.shields.io/badge/Website-akamelucy.xyz-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://akamelucy.xyz/)
+[![Web](https://img.shields.io/badge/Website-akamelucy.xyz-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://akamelucy.xyz/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Akame-Lucy)
 [![Email](https://img.shields.io/badge/Email-akame--lucy%40proton.me-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:akame-lucy@proton.me)
 
