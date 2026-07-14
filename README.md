@@ -38,12 +38,14 @@ Multi-language developer focused on Lua-based game modding, JavaScript/PHP web d
 - Linux systems administration
 - Expanding JavaScript and Python skills
 - Strengthening Java fundamentals
-- Server-side development with PHP
-- Building and hosting a Git-based CTF platform
+- Server-side development
+- Building and hosting a CTF platform
+- Practising Cyber security
 
 ## Projects
 
-**[MyCyberPlayground](https://github.com/MyCyberPlayground)** — CTF challenges and a leaderboard for practicing security skills.
+**[MyCyberPlayground](https://MyCyberPlayground.xyz)** - CTF challenges and a leaderboard for practicing security skills.
+**[AL-Scripts](https://alscripts.xyz)** - Developing Fivem scripts.
 
 ## GitHub Stats
 
