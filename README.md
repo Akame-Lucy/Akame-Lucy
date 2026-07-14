@@ -7,7 +7,7 @@
 
 # Akame-Lucy
 
-Software developer working across game scripting, web technologies, and systems programming.
+Software developer working across game scripting, web technologies, and cybersecurity.
 
 </div>
 
@@ -15,7 +15,7 @@ Software developer working across game scripting, web technologies, and systems 
 
 ## About
 
-Multi-language developer focused on Lua-based game modding, JavaScript/PHP web development, and Linux systems administration. Also runs a CTF platform for hands-on security practice.
+Multi-language developer focused on Lua-based game modding, JavaScript/PHP web development, Linux systems administration, and cybersecurity. Runs a CTF platform for hands-on security practice.
 
 ## Tech Stack
 
@@ -30,6 +30,7 @@ Multi-language developer focused on Lua-based game modding, JavaScript/PHP web d
 ![PHP](https://img.shields.io/badge/PHP-000000?style=flat-square&logo=php&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-000000?style=flat-square&logo=html5&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=white)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-000000?style=flat-square&logo=hackthebox&logoColor=white)
 
 </div>
 
@@ -40,19 +41,20 @@ Multi-language developer focused on Lua-based game modding, JavaScript/PHP web d
 - Strengthening Java fundamentals
 - Server-side development
 - Building and hosting a CTF platform
-- Practising Cyber security
+- Practicing cybersecurity — penetration testing and vulnerability research
 
 ## Projects
 
 **[MyCyberPlayground](https://MyCyberPlayground.xyz)** - CTF challenges and a leaderboard for practicing security skills.
-**[AL-Scripts](https://alscripts.xyz)** - Developing Fivem scripts.
+
+**[AL-Scripts](https://alscripts.xyz)** - Developing FiveM scripts.
 
 ## GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Akame-Lucy&show_icons=true&theme=default&hide_border=true&bg_color=00000000&title_color=24292E&icon_color=24292E&text_color=24292E" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akame-Lucy&layout=compact&theme=default&hide_border=true&bg_color=00000000&title_color=24292E&text_color=24292E" height="165" />
+<img src="./profile/stats.svg" height="165" />
+<img src="./profile/top-langs.svg" height="165" />
 
 </div>
 
